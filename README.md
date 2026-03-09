@@ -12,7 +12,7 @@
 
 </p>
 <p align="center">
-    <a href="https://github.com/itigori"><img src="https://img.shields.io/badge/GitHub-itigori-blue?logo=github" alt="GitHub" title="GitHub" /></a>
+    <a href="https://github.com/koyukichino"><img src="https://img.shields.io/badge/GitHub-koyukichino-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <a href="https://gitee.com/chinoyuki"><img src="https://img.shields.io/badge/Gitee-chinoyuki-943e43?logo=gitee" alt="Gitee" title="Gitee" /></a>
       <a href="https://gitcode.com/chinoyuki"><img src="https://img.shields.io/badge/GitCode-chinoyuki-bb1f3c?logo=gitcode" alt="GitCode" title="GitCode" /></a>
     <a href="https://wakatime.com/@cb7a6cd3-5906-4bf1-afd2-c8d9514409e5"><img src="https://wakatime.com/badge/user/cb7a6cd3-5906-4bf1-afd2-c8d9514409e5.svg" alt="Total time coded since Nov 5 2025" /></a>
