@@ -1,7 +1,7 @@
 # 你好，这里是chinokoyuki
 
 - 🔭 In university study
-- 🌱 Now learning **Artificial Intelligence**
+- 🌱 Now learning **Artificial Intelligence / Robotics Engineering**
 - 📫 How to reach me: **itigori@foxmail.com**, Chinese, English and Japanese are accepted
 - 🐱 稚雪 稚雪九月 ChinoKoyuki 稚乃小雪 チノコユキ
 - ⭐ 希望每一天都能闪闪发光，心动不已
