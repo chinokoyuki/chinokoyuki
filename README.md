@@ -3,7 +3,7 @@
 - 🔭 In university study
 - 🌱 Now learning **Artificial Intelligence / Robotics Engineering**
 - 📫 How to reach me: **itigori@foxmail.com**, Chinese, English and Japanese are accepted
-- 💓 My robot friend: [@chinomirai](https://github.com/chinomirai)
+- 💓 My robot friend: **[@chinomirai](https://github.com/chinomirai)**
 - 🐱 稚雪 稚雪九月 ChinoKoyuki 稚乃小雪 チノコユキ
 - ⭐ 希望每一天都能闪闪发光，心动不已
 
